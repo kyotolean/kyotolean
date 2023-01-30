@@ -2,7 +2,7 @@
 <p align="center">
   <img src="name.svg" alt="name" />
 </p>
-
+ 
 ### Hi there 👋 
 I'm David, 19 y.o Computer Science Student.
 
