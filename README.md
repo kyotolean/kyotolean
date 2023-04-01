@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="name.svg" alt="witchblxde" />
+  <img src="name.svg" alt="kyotolean" />
 </p>
  
 ### Hi there 👋 
